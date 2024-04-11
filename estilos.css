@@ -9,7 +9,7 @@ p {
 }
 
 body {
-     background-image: linear-gradient(to bottom, #66BDE8, #9F88FF, #4F7ADB);
+     background: linear-gradient(to bottom, #66BDE8, #9F88FF, #4F7ADB);
     display: flex;
     flex-direction: column;
     align-items: center;
